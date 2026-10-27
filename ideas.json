@@ -1,0 +1,482 @@
+[
+ {
+  "name": "Zip-wire elf",
+  "idea": "Run string between two chair backs and hang the elf from it with a peg, mid-zip.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "string, a peg"
+ },
+ {
+  "name": "Marshmallow bath",
+  "idea": "Elf sits in a mug or bowl full of mini marshmallows, as if it's a bubble bath.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "mug, mini marshmallows"
+ },
+ {
+  "name": "Toilet roll snowman",
+  "idea": "Elf has built a snowman from three loo rolls stacked up with a felt-tip face.",
+  "minutes": 5,
+  "messy": false,
+  "type": "craft",
+  "you_need": "3 toilet rolls, a pen"
+ },
+ {
+  "name": "Stuck in the biscuit tin",
+  "idea": "Elf is head-first in the biscuit tin with just the legs showing.",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "biscuit tin"
+ },
+ {
+  "name": "Fishing in the sink",
+  "idea": "Elf on the tap with a pencil fishing rod and paper fish in a bowl of water.",
+  "minutes": 5,
+  "messy": true,
+  "type": "funny",
+  "you_need": "pencil, string, paper fish"
+ },
+ {
+  "name": "Kindness note",
+  "idea": "Elf leaves a note asking your child to do one kind thing for someone today.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "paper, pen"
+ },
+ {
+  "name": "Hide and seek",
+  "idea": "Elf hides with a sign saying 'Bet you can't find me before breakfast'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "paper"
+ },
+ {
+  "name": "Teddy tea party",
+  "idea": "Elf hosts the teddies round a tea set, a biscuit on each plate.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "teddies, cups"
+ },
+ {
+  "name": "Snow angel in flour",
+  "idea": "Elf lies in a tray of flour having made a snow angel.",
+  "minutes": 5,
+  "messy": true,
+  "type": "cheeky",
+  "you_need": "baking tray, flour"
+ },
+ {
+  "name": "Wrapped the remote",
+  "idea": "Elf has wrapped the TV remote in wrapping paper with a 'no telly till tea' tag.",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "wrapping paper, tape"
+ },
+ {
+  "name": "Selfie with the family photo",
+  "idea": "Elf posed next to a family photo with a phone or a paper phone, taking a selfie.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "a photo"
+ },
+ {
+  "name": "Lego elf house",
+  "idea": "Elf asleep in a little Lego or block bed with a tissue blanket.",
+  "minutes": 5,
+  "messy": false,
+  "type": "craft",
+  "you_need": "bricks, tissue"
+ },
+ {
+  "name": "Breakfast surprise",
+  "idea": "Elf leaves cereal poured in a bowl with a note: 'Made you breakfast (didn't add milk, I'm not daft)'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "bowl, cereal"
+ },
+ {
+  "name": "Reading a bedtime story",
+  "idea": "Elf sits on the bed holding a Christmas book open, ready for tonight's story.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "a book"
+ },
+ {
+  "name": "Toy car race",
+  "idea": "Elf lines toy cars up on a paper start line with a chequered flag.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "toy cars, paper"
+ },
+ {
+  "name": "Hanging from the light",
+  "idea": "Elf dangles from a lampshade or light pull by a ribbon (not a hot bulb).",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "ribbon"
+ },
+ {
+  "name": "Paper snowflakes",
+  "idea": "Elf has cut paper snowflakes and stuck them on the window.",
+  "minutes": 10,
+  "messy": true,
+  "type": "craft",
+  "you_need": "paper, scissors, tape"
+ },
+ {
+  "name": "Sock snowball fight",
+  "idea": "Elf and the teddies in two forts throwing rolled-up white socks.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "white socks, cushions"
+ },
+ {
+  "name": "Drawing on the banana",
+  "idea": "Elf has drawn a funny face on every banana in the fruit bowl.",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "bananas, a pen"
+ },
+ {
+  "name": "Elf jail",
+  "idea": "Elf behind 'bars' of straws or pencils in a box for being cheeky, with a sorry note.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "box, straws or pencils"
+ },
+ {
+  "name": "Countdown chain",
+  "idea": "Elf leaves a paper chain with one link for each sleep left to Christmas.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "paper strips, tape"
+ },
+ {
+  "name": "Photo-booth props",
+  "idea": "Elf leaves paper moustaches and hats on sticks for a family photo.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "card, straws, tape"
+ },
+ {
+  "name": "Helping with homework",
+  "idea": "Elf sits on the reading book with a pencil and a note: 'I did the easy one'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "pencil"
+ },
+ {
+  "name": "Bubble wrap road",
+  "idea": "Elf laid a bubble wrap path from the bedroom door to the stairs.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "bubble wrap"
+ },
+ {
+  "name": "Making a mug hot chocolate",
+  "idea": "Elf by a mug with a hot chocolate sachet and 'For after school' tag.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "mug, sachet"
+ },
+ {
+  "name": "Writing to Father Christmas",
+  "idea": "Elf has started a letter to Father Christmas and left space for your child's list.",
+  "minutes": 5,
+  "messy": false,
+  "type": "kind",
+  "you_need": "paper, pen"
+ },
+ {
+  "name": "Playing a board game",
+  "idea": "Elf mid-game of snakes and ladders against a teddy, and losing.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "a board game"
+ },
+ {
+  "name": "Tangled in fairy lights",
+  "idea": "Elf wrapped in fairy lights (switched off) after trying to help with the tree.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "fairy lights"
+ },
+ {
+  "name": "Sweet scavenger hunt",
+  "idea": "Elf leaves three clue notes leading to one small treat.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "paper, a treat"
+ },
+ {
+  "name": "Bake-off judge",
+  "idea": "Elf sits by gingerbread or biscuits holding a paper score card '10'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "biscuits, card"
+ },
+ {
+  "name": "Elf-sized doughnuts",
+  "idea": "Elf on a plate of Cheerios like a pile of tiny doughnuts.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "Cheerios"
+ },
+ {
+  "name": "Clothes-peg washing line",
+  "idea": "Elf has hung all the odd socks on a string washing line.",
+  "minutes": 5,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "string, pegs, socks"
+ },
+ {
+  "name": "Kindness jar",
+  "idea": "Elf starts a jar of kind things the family can add to all week.",
+  "minutes": 5,
+  "messy": false,
+  "type": "kind",
+  "you_need": "jar, paper"
+ },
+ {
+  "name": "Riding the dog's toy",
+  "idea": "Elf riding a soft toy or the dog's teddy like a reindeer.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "soft toy"
+ },
+ {
+  "name": "Gift for a neighbour",
+  "idea": "Elf leaves a card for your child to write and pop through a neighbour's door.",
+  "minutes": 5,
+  "messy": false,
+  "type": "kind",
+  "you_need": "card, pen"
+ },
+ {
+  "name": "Glitter sneeze",
+  "idea": "Elf by a tissue box with a sprinkle of sugar 'glitter' and a 'bless me' sign.",
+  "minutes": 2,
+  "messy": true,
+  "type": "funny",
+  "you_need": "tissue, sugar"
+ },
+ {
+  "name": "Ski slope",
+  "idea": "Elf skiing down a book ramp on two lolly sticks.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "books, lolly sticks"
+ },
+ {
+  "name": "Elf movie night",
+  "idea": "Elf on the sofa with a tiny popcorn cup and the remote, film night tonight.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "popcorn, a cup"
+ },
+ {
+  "name": "Toothpaste message",
+  "idea": "Elf wrote 'Brush for 2 mins!' on the bathroom mirror with soap or a dry-wipe pen.",
+  "minutes": 2,
+  "messy": true,
+  "type": "cheeky",
+  "you_need": "soap or dry-wipe pen"
+ },
+ {
+  "name": "Stuck to the fridge",
+  "idea": "Elf held on the fridge door by magnets, looking very stuck.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "fridge magnets"
+ },
+ {
+  "name": "Tree decorating",
+  "idea": "Elf has hung one new decoration on the tree and points at it.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "a decoration"
+ },
+ {
+  "name": "Paper aeroplane race",
+  "idea": "Elf has folded paper aeroplanes and left a 'race me' sign.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "paper"
+ },
+ {
+  "name": "Swapped the shoes",
+  "idea": "Elf has swapped everyone's shoes round by the door.",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "shoes"
+ },
+ {
+  "name": "Craft kit for later",
+  "idea": "Elf leaves paper, glue and a note: 'Make me a hat after school?'",
+  "minutes": 2,
+  "messy": false,
+  "type": "craft",
+  "you_need": "paper, glue"
+ },
+ {
+  "name": "Hiding in the stocking",
+  "idea": "Elf peeks out of a Christmas stocking with 'Not long now!'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "stocking"
+ },
+ {
+  "name": "Snow in the shoe",
+  "idea": "Elf filled one wellie with cotton wool 'snow'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "cotton wool"
+ },
+ {
+  "name": "Treasure map",
+  "idea": "Elf drew a map of the house with an X where a sweet is hidden.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "paper, pen, a sweet"
+ },
+ {
+  "name": "Tissue box ghost train",
+  "idea": "Elf pulling a train of toys in tissue boxes across the floor.",
+  "minutes": 5,
+  "messy": false,
+  "type": "funny",
+  "you_need": "tissue boxes, string"
+ },
+ {
+  "name": "Thank-you card",
+  "idea": "Elf asks your child to make a thank-you card for their teacher.",
+  "minutes": 5,
+  "messy": false,
+  "type": "kind",
+  "you_need": "card, pens"
+ },
+ {
+  "name": "Elf yoga",
+  "idea": "Elf and teddies doing yoga on a tea towel, one leg up.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "tea towel"
+ },
+ {
+  "name": "Caught in the crisps",
+  "idea": "Elf asleep in an open crisp packet (empty, folded neatly).",
+  "minutes": 2,
+  "messy": false,
+  "type": "cheeky",
+  "you_need": "crisp packet"
+ },
+ {
+  "name": "Kitchen roll mummy",
+  "idea": "Elf wrapped up like a mummy in kitchen roll with a 'help' note.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "kitchen roll"
+ },
+ {
+  "name": "Build a fort",
+  "idea": "Elf built a fort from cushions and tea towels on the sofa.",
+  "minutes": 5,
+  "messy": false,
+  "type": "craft",
+  "you_need": "cushions, tea towels"
+ },
+ {
+  "name": "Jigsaw night",
+  "idea": "Elf has started a jigsaw with three pieces in, and a 'your turn' sign.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "jigsaw"
+ },
+ {
+  "name": "Elf-sized Christmas jumper",
+  "idea": "Elf wearing a sock cut into a jumper (an old odd sock).",
+  "minutes": 5,
+  "messy": false,
+  "type": "craft",
+  "you_need": "old sock, scissors"
+ },
+ {
+  "name": "Popcorn garland",
+  "idea": "Elf has threaded a popcorn or paper garland and draped it on a shelf.",
+  "minutes": 10,
+  "messy": true,
+  "type": "craft",
+  "you_need": "popcorn or paper, thread"
+ },
+ {
+  "name": "Note from the North Pole",
+  "idea": "Elf leaves a short 'North Pole News' about what the reindeer are up to.",
+  "minutes": 5,
+  "messy": false,
+  "type": "kind",
+  "you_need": "paper"
+ },
+ {
+  "name": "Elf in a glass",
+  "idea": "Elf sitting in a pint glass with a straw, 'fully refreshed'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "funny",
+  "you_need": "glass, straw"
+ },
+ {
+  "name": "Domino run",
+  "idea": "Elf has set up a domino or book run for your child to knock down.",
+  "minutes": 10,
+  "messy": false,
+  "type": "craft",
+  "you_need": "dominoes or books"
+ },
+ {
+  "name": "Donation box",
+  "idea": "Elf leaves an empty box: 'Pick one toy to give to children who need it'.",
+  "minutes": 2,
+  "messy": false,
+  "type": "kind",
+  "you_need": "a box"
+ }
+]
