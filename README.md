@@ -4,6 +4,12 @@ A free tool for parents doing a Christmas elf at home. Pick how much time you've
 
 **Use it now, no install:** [tchworks.co.uk/free/christmas-elf-ideas-generator](https://www.tchworks.co.uk/free/christmas-elf-ideas-generator/?utm_source=github&utm_campaign=elf-repo)
 
+## Printables
+
+**Free ideas pack (A4 PDF):** [download the Release](https://github.com/wilsonryan-hue/christmas-elf-ideas-generator/releases/tag/v1.0.0-free-printable) — all 60 ideas by length (2 / 5 / 10 minutes), 24-night December 2026 plan overview, no-mess shortlist and companion links.
+
+For the full 16-page visit pack (arrival letter, 24 elf notes, signs, kindness cards, scavenger hunt, oops notes, goodbye letter): [Christmas Elf Visit Kit](https://www.tchworks.co.uk/shop/christmas-elf-visit-kit/?utm_source=github&utm_campaign=elf-repo) (£2.49, print at home) · [Gumroad](https://tchworks.gumroad.com/l/llfrog?utm_source=github&utm_campaign=elf-repo).
+
 ## What's in this repo
 
 - `index.html`: the whole tool in one file. Open it in a browser; there's no build step and nothing to install.
@@ -90,10 +96,6 @@ Nothing is sent or saved. The ideas and the plan are generated in your browser.
 - **Treasure map** (Craft). Elf drew a map of the house with an X where a sweet is hidden. *You need: paper, pen, a sweet.*
 - **Popcorn garland** (Craft, a little mess). Elf has threaded a popcorn or paper garland and draped it on a shelf. *You need: popcorn or paper, thread.*
 - **Domino run** (Craft). Elf has set up a domino or book run for your child to knock down. *You need: dominoes or books.*
-
-## Printables
-
-For 16 print-at-home pages (an arrival letter, 24 elf notes, 9 elf-sized signs, 12 kindness cards, a scavenger hunt, 6 "oops" notes for when the elf gets touched, and a goodbye letter), there's the [Christmas Elf Visit Kit](https://www.tchworks.co.uk/shop/christmas-elf-visit-kit/?utm_source=github&utm_campaign=elf-repo) (£2.49, print at home).
 
 ## Not the official Elf on the Shelf
 
