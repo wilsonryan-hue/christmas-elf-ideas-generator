@@ -8,6 +8,8 @@ A free tool for parents doing a Christmas elf at home. Pick how much time you've
 
 **Free ideas pack (A4 PDF):** [download the Release](https://github.com/wilsonryan-hue/christmas-elf-ideas-generator/releases/tag/v1.0.0-free-printable) — all 60 ideas by length (2 / 5 / 10 minutes), 24-night December 2026 plan overview, no-mess shortlist and companion links.
 
+**Free Christmas Elf Ideas Pack 2026 (A4 PDF) on Gumroad:** https://tchworks.gumroad.com/l/smdub
+
 For the full 16-page visit pack (arrival letter, 24 elf notes, signs, kindness cards, scavenger hunt, oops notes, goodbye letter): [Christmas Elf Visit Kit](https://www.tchworks.co.uk/shop/christmas-elf-visit-kit/?utm_source=github&utm_campaign=elf-repo) (£2.49, print at home) · [Gumroad](https://tchworks.gumroad.com/l/llfrog?utm_source=github&utm_campaign=elf-repo).
 
 ## What's in this repo
